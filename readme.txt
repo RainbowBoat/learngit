@@ -11,3 +11,4 @@ Edit second time
 444444
 this change is added and committed
 this change is never added but I click the commit button
+Creating a new branch is quick
